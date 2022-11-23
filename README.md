@@ -30,8 +30,7 @@ Main analyses:
                                       ## outputs /bct_tmr/results/{subject}hypnogram_data.csv
 
     # detects rapid eye movements in EEG data for 1 subject at a time
-    python rem_detection.py           ## outputs /bct_tmr/results/{subject}hypnogram_data.csv
-                                      ## outputs /bct_tmr/results/eog_events-{event_name}.png
+    python rem_detection.py           ## outputs /bct_tmr/results/eog_events-{event_name}.png
 
     # runs an analysis on respiration data to determine if breathing changed before vs. after a cue
     python resp_analysis.py           ## outputs /bct_tmr/results/signal_table_{sub_str}_{count}.csv
