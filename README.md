@@ -37,7 +37,7 @@ Main analyses:
                                       ## outputs /bct_tmr/results/rrv_table_{sub_str}_{count}.csv
 
     # runs a t-test from previous script's data tables
-    python t-test_resp.py             ## outputs /bct_tmr/results//t-test_graph.csv
+    python t-test_resp.py             ## outputs /bct_tmr/results/t-test_graph.csv
                                       ## outputs /bct_tmr/results/t-test_results.png
 
     # runs analysis on mindfulness task accuracy to test if participants improve 
