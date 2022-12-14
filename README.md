@@ -5,6 +5,7 @@ Analyzes EEG and lucid dream data to determine if a mindfulness task induced luc
 Main analyses:
 1. Chi square test on number of subs that got lucid across conditions
 2. T-test to determine if subjects' breathing changed from before to after a cue
+3. T-test and Wilcoxon test on breath counting task accuracy before vs. after sleep
 
 ---
 
